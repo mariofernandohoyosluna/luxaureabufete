@@ -2,13 +2,13 @@ export const whatsapp = 'https://wa.me/527226168590?text=Hola%20Lux%20Aurea%2C%2
 
 export const services = [
   { number: '01', title: 'Derecho familiar', description: 'Acompañamos decisiones que afectan a su familia con sensibilidad, firmeza y una estrategia clara.', detail: 'Divorcio, convenios, custodia, convivencia, patria potestad y pensión alimenticia.' },
-  { number: '02', title: 'Defensa penal', description: 'Protegemos sus derechos y su libertad con atención inmediata, análisis serio y absoluta confidencialidad.', detail: 'Asesoría, defensa y acompañamiento jurídico durante cada etapa del proceso penal.' },
+  { number: '02', title: 'Defensa penal', description: 'Actuamos con oportunidad para proteger sus derechos, su libertad y su debido proceso desde el primer contacto con la autoridad.', detail: 'Detenciones, citatorios, denuncias, carpetas de investigación, audiencias y defensa durante todo el procedimiento penal.' },
   { number: '03', title: 'Patrimonio y sucesiones', description: 'Ordenamos y protegemos su patrimonio para dar certeza al presente y prevenir conflictos futuros.', detail: 'Testamentos, donaciones, sucesiones, adjudicación y regularización de inmuebles.' },
   { number: '04', title: 'Atención a víctimas', description: 'Defendemos su voz con trato digno, reserva y acciones jurídicas orientadas a recuperar seguridad.', detail: 'Acompañamiento ante violencia, amenazas, fraude, delitos patrimoniales y otras agresiones.' },
 ];
 
 export const steps = [
   { number: 'I', title: 'Escuchamos con reserva', description: 'Partimos de su historia, sus prioridades y los hechos relevantes, con atención humana y confidencial.' },
-  { number: 'II', title: 'Analizamos y trazamos la estrategia', description: 'Identificamos riesgos, alternativas y acciones concretas para construir una ruta jurídica acorde con su caso.' },
-  { number: 'III', title: 'Defendemos y acompañamos', description: 'Mantenemos comunicación clara y presencia legal durante cada decisión y etapa del proceso.' },
+  { number: 'II', title: 'Analizamos y trazamos la estrategia', description: 'Revisamos los hechos, citatorios, denuncias y elementos disponibles para identificar riesgos y construir una ruta jurídica acorde con su caso.' },
+  { number: 'III', title: 'Defendemos y acompañamos', description: 'Mantenemos comunicación clara y presencia legal ante el Ministerio Público, la Fiscalía y los tribunales durante cada etapa del proceso.' },
 ];
