@@ -3,6 +3,6 @@ import App from './App';
 
 test('renders the Lux Aurea landing page', () => {
   render(<App />);
-  const linkElement = screen.getByRole('heading', { name: /Decidir con firmeza.*Cuidar lo que más importa/i });
+  const linkElement = screen.getByRole('heading', { name: /Claridad para decidir.*Firmeza para proteger/i });
   expect(linkElement).toBeInTheDocument();
 });

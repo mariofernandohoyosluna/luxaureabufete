@@ -2,8 +2,6 @@
 
 # dependencies
 /node_modules
-/codex
-/.codex
 /.pnp
 .pnp.js
 
