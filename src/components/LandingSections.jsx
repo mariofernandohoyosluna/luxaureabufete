@@ -17,7 +17,7 @@ export function MethodSection() {
 }
 
 export function CareSection() {
-  return <section className="care layer-panel reveal-section"><div className="care-image"><img src="/images/legal-consultation.png" alt="Abogada escuchando con atención a una cliente durante una consulta privada" /></div><div className="care-copy"><p className="section-kicker">Personas antes que expedientes</p><h2 data-split data-text-animation="unfold">No tiene que elegir entre firmeza y humanidad.</h2><p>Cada asunto legal involucra una historia, una familia o un futuro que merece ser protegido. En materia penal, acompañamos a la persona imputada y a las víctimas con lenguaje claro, estrategia cuidadosa y el respeto que su situación requiere.</p><a className="text-link" href="#contacto">Conozca el siguiente paso <Arrow /></a></div></section>;
+  return <section className="care layer-panel reveal-section"><div className="care-image"><img src="/images/legal-team-interaction.png" alt="Dos abogados de Lux Aurea revisando juntos un documento en un despacho legal" /></div><div className="care-copy"><p className="section-kicker">Personas antes que expedientes</p><h2 data-split data-text-animation="unfold">No tiene que elegir entre firmeza y humanidad.</h2><p>Cada asunto legal involucra una historia, una familia o un futuro que merece ser protegido. En materia penal, acompañamos a la persona imputada y a las víctimas con lenguaje claro, estrategia cuidadosa y el respeto que su situación requiere.</p><a className="text-link" href="#contacto">Conozca el siguiente paso <Arrow /></a></div></section>;
 }
 
 export function ClosingStatement() {
